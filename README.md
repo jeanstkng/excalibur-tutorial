@@ -6,3 +6,6 @@ Developed by JeanStkng
 Use NodeJS 18+
 
 in `main.ts` you have to uncomment the different gameObjects and comment others.
+
+Tutorial for this branch:
+https://www.youtube.com/watch?v=d05kfcETV58
